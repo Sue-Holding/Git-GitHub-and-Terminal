@@ -1,6 +1,6 @@
-#<font color="pink"> Git, GitHub and Terminal - Research Uppgift</font>
+# Git, GitHub and Terminal - Research Uppgift
 
-This is my first ReadMe file to my *first* project creating and opening a file from a *terminal*
+This is my first ReadMe file to my *first* project creating and opening a file from a *terminal*.
 
 As you can see I am learning how to use **Markdown** which might become easier than **HTML**.
 
@@ -17,4 +17,6 @@ To name but just a few that I have learned from our teachers.
 
 **Markdown** basic syntax I found from [Markdown Guide](https://www.markdownguide.org/basic-syntax/).
 
-![family image](desktop/ChasFos24/FOS24/vecka37/ResearchUppgift/Git-GitHub-and-Terminal/Git-GitHub-and-Terminal/images/family.jpeg "family")
+![family image](images/family.jpeg "family")
+
+I have tried to change the font colours but my **Markdown** appears not not support **HTML** for this **CSS** feature. 
