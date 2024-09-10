@@ -1,4 +1,4 @@
-# Git, GitHub and Terminal - Research Uppgift
+<font color="pink"># Git, GitHub and Terminal - Research Uppgift
 
 This is my first ReadMe file to my *first* project creating and opening a file from a *terminal*
 
