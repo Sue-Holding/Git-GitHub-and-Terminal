@@ -16,3 +16,5 @@ I have learnt and feel more familiar with using many different terminal commands
 To name but just a few that I have learned from our teachers.
 
 **Markdown** basic syntax I found from [Markdown Guide](https://www.markdownguide.org/basic-syntax/).
+
+![family image](desktop/ChasFos24/FOS24/vecka37/ResearchUppgift/Git-GitHub-and-Terminal/Git-GitHub-and-Terminal/images/family.jpeg "family")
