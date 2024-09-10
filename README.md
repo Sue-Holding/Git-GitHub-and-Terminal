@@ -13,4 +13,6 @@ I have learnt and feel more familiar with using many different terminal commands
 > - **git branch** *with new branch name to create a new branch* 
 > - **git switch** *with the name of branch to switch to*
 
-> to name but just a few!!
+To name but just a few that I have learned from our teachers.
+
+**Markdown** basic syntax I found from [Markdown Guide](https://www.markdownguide.org/basic-syntax/).
