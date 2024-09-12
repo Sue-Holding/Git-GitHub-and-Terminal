@@ -4,7 +4,7 @@ This is my first ReadMe file to my *first* project creating and opening a file f
 
 As you can see I am learning how to use **Markdown** which seems easier than **HTML** for a simple content file, but I think I will prefer using **HTML** so I can style better using **CSS**. All knowledge of this I have gained over the summer from reading [mdn wed docs](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web).
 
-Here are some Terminal commonads that I have learnt during the course so far this week;
+Here are just some of the Terminal commands that I have learnt during the course so far this week;
 
 > ## Terminal Commands
 > - **pwd** *to create current place in work directory*
@@ -32,6 +32,6 @@ To name but just a few that I have learned from our teachers.
 **Markdown** basic syntax I found from [Markdown Guide](https://www.markdownguide.org/basic-syntax/).
 
 Here I have attached a file, a photo of me and my family recently on holiday this summer. 
-![family image](images/family.jpeg "family")
+![family image](images/family.jpg "family")
 
  
